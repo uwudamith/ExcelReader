@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 namespace FolderProject
 {
     /// <summary>
+    /// Author : Damith Wanninayake
     /// Excel 4.5 library url:https://github.com/ExcelDataReader/ExcelDataReader
     /// </summary>
     class Program
